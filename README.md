@@ -20,3 +20,9 @@ Self First is your personal space for growth, reflection, and self-prioritizatio
     ```bash
     npm run dev
     ```
+
+## Tech Stack
+
+- **Frontend:** React js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
