@@ -3,7 +3,7 @@ const dbConnect = require('./config/dbConnect')
 const dotenv = require('dotenv');
 const express = require('express');
 
-dotenv.config({path: './.env'});
+dotenv.config({ path: './.env' });
 
 dbConnect;
 
